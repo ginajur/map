@@ -14,4 +14,4 @@ In the future I would like to figure out a way to run this file with a public ma
 
 # License information 🆗
 
-This project is licensed under the MiT license 
+This project is licensed under the [MiT license](https://github.com/ginajur/pacmangame/blob/add-license-1/LICENSE.MD) 
